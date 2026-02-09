@@ -39,5 +39,11 @@ Este projeto é uma **apresentação interativa** pensada para:
 
 </div>
 
+## 🔗 Testar o Projeto
 
+A apresentação pode ser acessada diretamente pelo navegador por meio do **GitHub Pages**:
+
+👉 **[Acessar apresentação interativa]([https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/)]**
+
+---
 

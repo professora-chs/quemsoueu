@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 const { useState, useEffect } = React;
 
 // --- Sub-componente de Ícones ---

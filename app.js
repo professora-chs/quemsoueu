@@ -155,35 +155,35 @@ const SLIDES_DATA = [
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-center mt-8">
 
             <a
-                href="https://www.linkedin.com/in/SEU-LINKEDIN"
+                href="www.linkedin.com/in/claudia-heleno"
                 target="_blank"
                 className="bg-blue-900/30 p-6 rounded-xl border border-blue-500/40 hover:scale-105 transition"
             >
                 <Icon name="linkedin" size={36} className="text-blue-400 mx-auto mb-4" />
                 <h4 className="font-bold text-lg">LinkedIn</h4>
                 <p className="text-sm text-gray-400 mt-2">
-                    Conexões profissionais
+                    claudia-heleno
                 </p>
             </a>
 
             <a
-                href="https://www.instagram.com/SEU-INSTAGRAM"
+                href="https://www.instagram.com/chs_heleno/"
                 target="_blank"
                 className="bg-pink-900/20 p-6 rounded-xl border border-pink-500/40 hover:scale-105 transition"
             >
                 <Icon name="instagram" size={36} className="text-pink-400 mx-auto mb-4" />
                 <h4 className="font-bold text-lg">Instagram</h4>
                 <p className="text-sm text-gray-400 mt-2">
-                    Conteúdo e bastidores
+                    @chs_heleno
                 </p>
             </a>
 
             <a
-                href="mailto:SEUEMAIL@institucional.com"
+                href="mailto:claudia.h.silva@kroton.com.br"
                 className="bg-green-900/20 p-6 rounded-xl border border-green-500/40 hover:scale-105 transition"
             >
                 <Icon name="mail" size={36} className="text-green-400 mx-auto mb-4" />
-                <h4 className="font-bold text-lg">E-mail</h4>
+                <h5 className="font-bold text-sm">claudia.h.silva@kroton.com.br</h5>
                 <p className="text-sm text-gray-400 mt-2">
                     Contato institucional
                 </p>

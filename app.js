@@ -174,7 +174,7 @@ const SLIDES_DATA = [
                 <Icon name="instagram" size={36} className="text-pink-400 mx-auto mb-4" />
                 <h4 className="font-bold text-lg">aaaInstagram</h4>
                 <p className="text-sm text-gray-400 mt-2">
-                    @chs_heleno
+                    chs_heleno
                 </p>
             </a>
 

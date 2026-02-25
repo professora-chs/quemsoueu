@@ -172,7 +172,7 @@ const SLIDES_DATA = [
                 className="bg-pink-900/20 p-6 rounded-xl border border-pink-500/40 hover:scale-105 transition"
             >
                 <Icon name="instagram" size={36} className="text-pink-400 mx-auto mb-4" />
-                <h4 className="font-bold text-lg">aaaInstagram</h4>
+                <h4 className="font-bold text-lg">Instagram</h4>
                 <p className="text-sm text-gray-400 mt-2">
                     chs_heleno
                 </p>
